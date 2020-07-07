@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  color: #d3d5fd;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  color: #6a197d;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+}
+
+a {
+  color:  #d3d5fd;
+}
+
+a:hover {
+  color: #0b0b0d;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #0b0b0d;
+  border-width: 10px;
+  width: 20%;
+}
+
+.top-container {
+  background-color: #474a56;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #e4e3e3;
+  color: #474a56;
+}
+
+.bottom-container {
+  background-color: #474a56;
+  color: #d3d5fd;
+  height: 150px;
+}
+
+.contact-me {
+  background-color: #474a56;
+  color: #d3d5fd;
+}
+
+.programmer {
+  font-weight: normal;
+  font-size: 2rem;
+  color: #929aab;
+  margin-top: 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-pic {
+  height: 200px;
+  width: 200px;
+  padding-top: 50px;
+}
+
+.top-ufo {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-ufo {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.globe {
+  height: 350px;
+  width: 350px;
+}
+
+.credits {
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  line-height: .75rem;
+  color: #0b0b0d;
+}
+
+.credits > a {
+  color: #0b0b0d;
+}
+
+.credits > a:hover {
+  color: #d3d5fd;
+}
+
+.credits-one {
+  padding-top: 50px;
+}
+
+.watermark {
+  margin-top: 0;
+}
